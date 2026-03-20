@@ -1,6 +1,6 @@
 ---
 name: docmost
-description: Use when user asks to interact with Docmost wiki - reading/writing documents, creating pages, managing spaces, or any Docmost-related tasks.
+description: "Use when user types /dc, docmost, wiki, 文档, Docmost, or asks to interact with Docmost wiki - reading/writing documents, creating pages, managing spaces, or any Docmost-related tasks."
 ---
 
 # Docmost Wiki Skill
